@@ -5,8 +5,8 @@ html {
 body {
   margin: 0;
   text-align: center;
-  background-color: #322e2d;
-  color: #5e63a3;
+  background-color: #a53316;
+  color: #222a97;
 }
 
 #logo {
@@ -17,9 +17,9 @@ body {
 }
 
 h1 {
-  color: #ac2e5e;
+  color: #f04c8b;
 }
 
 a {
-  color: #f1cf0e;
+  color: #387a28;
 }
